@@ -30,3 +30,19 @@ Bloco de notas colaborativo: http://collabedit.com/cmnvk
 Não ocorreu
 
 * AULA 02.1 - 29/09/2020
+- Aspectos práticos:
+  - Github - https://github.com/magnoCaliman/ismaiProgCriativa_2020-1
+  - Downloads de exemplos via arquivo zip na pasta de cada aula
+
+- Processing:
+  - Convenção de nomenclatura de arquivos
+  - Estrutura de pasta
+
+- Exemplos:
+  - ~bucho.pde~
+  - ~catapora.pde~
+  - ~cometa.pde~
+  - ~infla.pde~
+
+- Documentação:
+  - https://processing.org/reference/
