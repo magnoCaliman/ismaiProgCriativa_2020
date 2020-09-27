@@ -1,0 +1,26 @@
+Bloco de notas colaborativo: http://collabedit.com/cmnvk
+
+* AULA 01.1 - 22/09/2020
+
+** PROCESSING
+- Baixar em https://processing.org/
+
+#+BEGIN_QUOTE
+"A flexible software sketchbook and a language for learning how to code within the context of the visual arts"
+#+END_QUOTE
+
+- Exemplos vistos em aula (Podem ser acessados no menu /File > Examples/ ou na pasta /processing-3.5.4 > modes > java > examples/):
+  - Topics - Drawing - ContinuosLines & Pattern
+  - Topics - Simulate - Chain & Flocking
+  - Topics - Motion - Brownian & CircleCollision
+  - Topics - Image Processing - LinearImage - http://dillonbaker.com/#/spectrum/
+  - Demos - Performance - Esfera
+  - https://www.instagram.com/colakollektiv/
+  - http://www.continuumfashion.com/D.php
+  - https://vimeo.com/163153865
+
+* AULA 01.2 - 23/09/2020
+
+Não ocorreu
+
+* AULA 02.1 - 29/09/2020
