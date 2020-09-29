@@ -53,13 +53,13 @@ Não ocorreu
 - Texto -> Processing -> Imagens
 - "Desenhe uma linha"
   - Vocabulário: linguagens de programação só entendem as palavras que fazem parte do vocabulário daquela linguagem!
-//
+\\
 - Conceitos:
   - *Funções*: instruções para o computador que fazem parte do vocabulário daquela linguagem. "Faça isso..."
   - *Argumentos*: /qualificadores/ de uma função em particular. "...mas faça dessa maneira"
   - *Sintaxe*: convenção de escrita de uma linguagem.
     - RTFM! - https://processing.org/reference/
-//
+\\
 - Vocabulário:
   - ~size()~
   - ~point()~
@@ -67,7 +67,7 @@ Não ocorreu
   - ~rect()~
   - ~ellipse()~
   - ~triangle()~
-//
+\\
 - Especificidades do Processing:
   - Sistema de coordenadas: https://processing.org/tutorials/drawing/
   - Ordem de execução
