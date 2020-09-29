@@ -55,9 +55,9 @@ Não ocorreu
   - Vocabulário: linguagens de programação só entendem as palavras que fazem parte do vocabulário daquela linguagem!
 
 - Conceitos:
-  - *Funções*: instruções para o computador que fazem parte do vocabulário daquela linguagem. "Faça isso..."
+  - *Funções*: /instruções/ para o computador que fazem parte do vocabulário daquela linguagem. "Faça isso..."
   - *Argumentos*: /qualificadores/ de uma função em particular. "...mas faça dessa maneira"
-  - *Sintaxe*: convenção de escrita de uma linguagem.
+  - *Sintaxe*: /convenção/ de como a escrita de uma linguagem se dá.
     - RTFM! - https://processing.org/reference/
 
 - Vocabulário:
