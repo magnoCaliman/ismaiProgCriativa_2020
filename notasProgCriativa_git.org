@@ -27,7 +27,7 @@ Bloco de notas colaborativo: http://collabedit.com/cmnvk
 
 * AULA 01.2 - 23/09/2020
 
-Não ocorreu
+- Não ocorreu
 
 * AULA 02.1 - 29/09/2020
 - Aspectos práticos:
@@ -71,3 +71,48 @@ Não ocorreu
 - Especificidades do Processing:
   - Sistema de coordenadas: https://processing.org/tutorials/drawing/
   - Ordem de execução
+* AULA 03.1 - 06/10/2020
+- Aula prática
+
+* AULA 03.2 - 07/10/2020
+
+- Conceitos:
+  - *Modularidade*:
+    - Funções às vezes /retornam valores/
+    - Funções como argumento de outras funções!
+  - *Blocos de código*: se funções são verbos, blocos são parágrafos.
+
+- Vocabulário:
+  - ~fill()~ / ~noFill()~
+  - ~stroke()~ / ~noStroke~
+  - ~background()~
+  - ~strokeWeight()~
+  - ~println()~
+  - ~random()~
+  - ~void setup(){}~
+  - ~void draw(){}~
+
+- Especificidades do Processing:
+  - Cores: https://processing.org/tutorials/color/
+  - Estrutura de ~setup()~ + ~draw()~
+
+- Exemplos:
+  1. ~background.pde~
+  2. ~fill_1arg.pde~
+  3. ~fill_3arg.pde~
+  4. ~fill_4arg.pde~
+  5. ~fill_2arg.pde~
+  6. ~stroke.pde~
+  7. ~printRandom.pde~
+  8. ~randomFillPos.pde~
+  9. ~loopDraw.pde~
+  10. ~loopBG.pde~
+  11. ~linhaRandomBorda.pde~
+  12. ~catapora.pde~
+
+- Desafios!
+  - ritualPassagem
+  - aHa
+  - divisaoCanvas
+  - sandro
+  - tunel
