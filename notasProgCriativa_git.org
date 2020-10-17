@@ -26,8 +26,7 @@ Bloco de notas colaborativo: http://collabedit.com/cmnvk
     - https://www.amazon.com/gp/product/B00NBER0BO/ref=dbs_a_def_rwt_bibl_vppi_i3
 
 * AULA 01.2 - 23/09/2020
-
-- Não ocorreu
+- Não houve. Para remarcação.
 
 * AULA 02.1 - 29/09/2020
 - Aspectos práticos:
@@ -71,8 +70,18 @@ Bloco de notas colaborativo: http://collabedit.com/cmnvk
 - Especificidades do Processing:
   - Sistema de coordenadas: https://processing.org/tutorials/drawing/
   - Ordem de execução
+
+- Desafios!
+  - bauhaus_pb
+  - bordas
+  - cruzadas
+  - pizza
+  - ruleOfThirds
+  - totalEclipseOfTheHeart
+  - xadrez
+
 * AULA 03.1 - 06/10/2020
-- Aula prática
+- Discussão dos desafios da aula 02.2
 
 * AULA 03.2 - 07/10/2020
 
@@ -117,7 +126,7 @@ Bloco de notas colaborativo: http://collabedit.com/cmnvk
   - sandro
   - tunel
 * AULA 04.1 - 13/10/2020
-- Dicussão dos desafios da Aula 03.2
+- Discussão dos desafios da aula 03.2
 - Referências:
   - Norman McLaren
     - https://www.youtube.com/watch?v=E3-vsKwQ0Cg
@@ -129,3 +138,5 @@ Bloco de notas colaborativo: http://collabedit.com/cmnvk
     - https://duckduckgo.com/?q=vera+molnar&iax=images&ia=images
 
 [[/aula04.1/vera_molnar.jpg]]
+* AULA 04.2 - 14/10/2020
+- Não houve. Para remarcação.
