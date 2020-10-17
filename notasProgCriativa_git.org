@@ -116,3 +116,16 @@ Bloco de notas colaborativo: http://collabedit.com/cmnvk
   - divisaoCanvas
   - sandro
   - tunel
+* AULA 04.1 - 13/10/2020
+- Dicussão dos desafios da Aula 03.2
+- Referências:
+  - Norman McLaren
+    - https://www.youtube.com/watch?v=E3-vsKwQ0Cg
+    - https://www.youtube.com/watch?v=Q0vgZv_JWfM
+    - https://www.youtube.com/watch?v=UmSzc8mBJCM
+    - https://www.youtube.com/watch?v=7BeCPbNZ74s
+  - Vera Molnar
+    - https://en.wikipedia.org/wiki/Vera_Moln%C3%A1r
+    - https://duckduckgo.com/?q=vera+molnar&iax=images&ia=images
+
+[[/aula04.1/vera_molnar.jpg]]
