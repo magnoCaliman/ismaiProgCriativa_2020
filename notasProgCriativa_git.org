@@ -147,7 +147,7 @@ Bloco de notas colaborativo: http://collabedit.com/cmnvk
   - *Palavras como representates simbólicos de valores*
     - Dividir uma palavra por 2, agora faz sentido...
   - *Generalização da lógica*
-    - Traduzir discurso humano para a máquina...
+    - Traduzir discurso humano para a máquina.
 
 - Vocabulário:
   - ~mouseX~
