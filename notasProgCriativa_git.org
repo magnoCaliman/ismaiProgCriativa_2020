@@ -89,7 +89,8 @@ Bloco de notas colaborativo: http://collabedit.com/cmnvk
   - *Modularidade*:
     - Funções às vezes /retornam valores/
     - Funções como argumento de outras funções!
-  - *Blocos de código*: se funções são verbos, blocos são parágrafos.
+  - *Blocos de código*:
+    - Se funções são verbos, blocos são parágrafos.
 
 - Vocabulário:
   - ~fill()~ / ~noFill()~
@@ -140,3 +141,33 @@ Bloco de notas colaborativo: http://collabedit.com/cmnvk
 [[/aula04.1/vera_molnar.jpg]]
 * AULA 04.2 - 14/10/2020
 - Não houve. Para remarcação.
+* AULA 05.1 - 20/10/2020
+
+- Conceitos:
+  - *Palavras como representates simbólicos de valores*
+    - Dividir uma palavra por 2, agora faz sentido...
+  - *Generalização da lógica*
+    - Traduzir discurso humano, para a máquina...
+
+- Vocabulário:
+  - ~mouseX~
+  - ~mouseY~
+  - ~width~
+  - ~height~
+
+- Exemplos:
+  1. ~printMouseX.pde~
+  2. ~bolaSegue.pde~
+  3. ~funil.pde~
+  4. ~linhaCorta.pde~
+  5. ~meio.pde~
+  6. ~proporcao.pde~
+  7. ~wingman.pde~
+
+- Desafios!
+  1. bond
+  2. operacaoMouse
+  3. larguraAltura
+  4. pontoLinha
+  5. constelacao
+  6. ruleOfThirds
