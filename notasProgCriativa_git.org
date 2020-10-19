@@ -147,7 +147,7 @@ Bloco de notas colaborativo: http://collabedit.com/cmnvk
   - *Palavras como representates simbólicos de valores*
     - Dividir uma palavra por 2, agora faz sentido...
   - *Generalização da lógica*
-    - Traduzir discurso humano, para a máquina...
+    - Traduzir discurso humano para a máquina...
 
 - Vocabulário:
   - ~mouseX~
@@ -165,9 +165,9 @@ Bloco de notas colaborativo: http://collabedit.com/cmnvk
   7. ~wingman.pde~
 
 - Desafios!
-  1. bond
-  2. operacaoMouse
-  3. larguraAltura
-  4. pontoLinha
-  5. constelacao
-  6. ruleOfThirds
+  - bond
+  - operacaoMouse
+  - larguraAltura
+  - pontoLinha
+  - constelacao
+  - ruleOfThirds
