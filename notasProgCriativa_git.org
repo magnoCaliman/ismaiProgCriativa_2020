@@ -178,9 +178,9 @@ Bloco de notas colaborativo: http://collabedit.com/cmnvk
     - Caixas, com etiquetas, onde guardamos informação
   - *Declaração* da variável
     - Ato de criação da caixa
-  - *Tipologia* da variável (/"data type"/)
+  - *Tipologia* da variável ("/data type/")
     - Que tipo de informação cabe na caixa
-  - *Atribuição* de valores à variável (/"assignment"/)
+  - *Atribuição* de valores à variável ("/assignment/")
     - Colocação de valores dentro da caixa
   - *Iteração*
     - Modificação dos valores da caixa, de modo auto-referencial
