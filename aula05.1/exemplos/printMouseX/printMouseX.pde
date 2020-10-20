@@ -6,6 +6,6 @@ void setup()
 
 void draw()
 {
-  //println(30);
-  println(mouseX);
+  println(30);
+  //println(mouseX);
 }

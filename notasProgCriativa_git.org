@@ -171,3 +171,39 @@ Bloco de notas colaborativo: http://collabedit.com/cmnvk
   - pontoLinha
   - constelacao
   - ruleOfThirds
+* AULA 05.2 - 21/10/2020
+
+- Conceitos:
+  - *Variáveis*
+    - Caixas, com etiquetas, onde guardamos informação
+  - *Declaração* da variável
+    - Ato de criação da caixa
+  - *Tipologia* da variável (/"data type"/)
+    - Que tipo de informação cabe na caixa
+  - *Atribuição* de valores à variável (/"assignment"/)
+    - Colocação de valores dentro da caixa
+  - *Iteração*
+    - Modificação dos valores da caixa, de modo auto-referencial
+    - ~x = x + 1~ é uma inverdade matemática, mas é computacionalmente válido
+
+- Vocabulário:
+  - ~frameRate()~
+  - ~int~
+  - ~float~
+  - ~=~
+
+- Exemplos:
+  1. ~codigoBarra_desafioInicial.mov~
+  2. ~introVar.pde~
+  3. ~tipologia.pde~
+  4. ~escopo.pde~
+  5. ~circulosRandom.pde~
+  6. ~animacao101.pde~
+  7. ~operacaoMouse_refactorar.pde~
+
+- Desafios!
+  - squareLines
+  - mouseExplode
+  - rayTracing
+  - corbusier
+  - codigoBarra
