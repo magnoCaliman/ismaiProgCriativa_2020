@@ -182,6 +182,10 @@ Bloco de notas colaborativo: http://collabedit.com/cmnvk
     - Que tipo de informação cabe na caixa
   - *Atribuição* de valores à variável ("/assignment/")
     - Colocação de valores dentro da caixa
+  - *Escopo* da variável ("/scope/")
+    - Local onde a caixa está guardada (e consequentemente quem tem permissão para acessar). Duas categorias:
+      - /Global/
+      - /Local/
   - *Iteração*
     - Modificação dos valores da caixa, de modo auto-referencial
     - ~x = x + 1~ é uma inverdade matemática, mas é computacionalmente válido
