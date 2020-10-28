@@ -221,9 +221,9 @@ Bloco de notas colaborativo: http://collabedit.com/cmnvk
 
 - Desafio:
   - Investigar a documentação e descobrir:
-    - Quais funções resolvem nosso problema
-    - Desvendar suas documentações como sua implementação funciona
-    - Criar ao menos /4 exemplos/ que demonstrem o funcionamento dessas funções
+    1. Quais funções resolvem nosso problema
+    2. Ler suas documentações (em https://processing.org/reference/) e decifrar como suas implementações funcionam
+    3. Criar ao menos /4 exemplos/ que demonstrem o funcionamento dessas funções
 
 - Observação:
   - Ao navegar a documentação dessas funções, provavelmente irá encontrar algo chamado "/if statement/". Algo como: ~if(value > 255)~. Não é necessário o seu uso. Isso será assunto de aula posterior.
