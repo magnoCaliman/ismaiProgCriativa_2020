@@ -211,3 +211,19 @@ Bloco de notas colaborativo: http://collabedit.com/cmnvk
   - rayTracing
   - corbusier
   - codigoBarra
+* AULA 06.1 - 27/10/2020
+- Discussão dos desafios da aula 05.2
+* AULA 06.2 - 28/10/2020
+- Dúvida:
+  - Como usar cliques do rato e o teclado do portátil como input dos nossos programas?
+- "Resposta":
+  - "Tem umas /funções/ tipo ~mouseDragged()~ e ~keyPressed()~ (além de outras que não lembro o nome...) que fazem isso."
+
+- Desafio:
+  - Investigar a documentação e descobrir:
+    - Quais funções resolvem nosso problema
+    - Desvendar suas documentações como sua implementação funciona
+    - Criar um exemplo que demonstre o funcionamento de /cada uma/ dessas funções
+
+- Observação:
+  - Ao navegar a documentação dessas funções, provavelmente irá encontrar algo chamado "/if statement/", escrito assim: ~if()~. Não é necessário o seu uso. Isso será assunto de aula posterior.
