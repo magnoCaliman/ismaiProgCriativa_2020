@@ -26,7 +26,7 @@ Bloco de notas colaborativo: http://collabedit.com/cmnvk
     - https://www.amazon.com/gp/product/B00NBER0BO/ref=dbs_a_def_rwt_bibl_vppi_i3
 
 * AULA 01.2 - 23/09/2020
-- Não houve. Para remarcação.
+- Não houve. Para compensar.
 
 * AULA 02.1 - 29/09/2020
 - Aspectos práticos:
@@ -140,9 +140,8 @@ Bloco de notas colaborativo: http://collabedit.com/cmnvk
 
 [[/aula04.1/vera_molnar.jpg]]
 * AULA 04.2 - 14/10/2020
-- Não houve. Para remarcação.
+- Não houve. Para compensar.
 * AULA 05.1 - 20/10/2020
-
 - Conceitos:
   - *Palavras como representates simbólicos de valores*
     - Dividir uma palavra por 2, agora faz sentido...
@@ -172,6 +171,7 @@ Bloco de notas colaborativo: http://collabedit.com/cmnvk
   - constelacao
   - ruleOfThirds
 * AULA 05.2 - 21/10/2020
+- Para compensar (EAD não válido no sistema)
 
 - Conceitos:
   - *Variáveis*
