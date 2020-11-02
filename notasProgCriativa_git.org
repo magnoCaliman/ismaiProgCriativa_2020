@@ -227,3 +227,30 @@ Bloco de notas colaborativo: http://collabedit.com/cmnvk
 
 - Observação:
   - Ao navegar a documentação dessas funções, provavelmente irá encontrar algo chamado "/if statement/". Algo como: ~if(value > 255)~. Não é necessário o seu uso. Isso será assunto de aula posterior.
+* AULA 07.1 - 03/11/2020
+
+- Conceitos:
+  - *Estruturas de controle*
+    - Estruturas no nosso programa que permitem controlar a /ordem de execução/ do nosso programa.
+    - Mudamos a regra que diz que o programa deve ser lido da primeira até a última linha, do início ao fim do programa, repetindo o ~void draw()~ uma vez por frame.
+
+- Especificidades do Processing:
+  - Relação entre a ordem de execução das funções de input de usuário e a renderização do frame ao final do ~void draw()~
+
+- Vocabulário:
+  - ~void mouseClicked(){}~
+  - ~void mouseDragged(){}~
+  - ~void mouseMoved(){}~
+  - ~void mousePressed(){}~
+  - ~void mouseReleased(){}~
+  - ~void mouseWheel(){}~
+  - ~void keyPressed(){}~
+  - ~void keyReleased(){}~
+  - ~void keyTyped(){}~
+
+- Exemplos:
+  1. ~drawVazio.pde~
+  2. ~clica_desenhaRect.pde~
+  3. ~void_mouse.pde~
+  4. ~mudaVar.pde~
+
