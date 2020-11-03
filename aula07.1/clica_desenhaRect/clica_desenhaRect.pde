@@ -1,4 +1,5 @@
 int tamCir = 200;
+int tamRect = 100;
 
 void setup()
 {
@@ -22,7 +23,7 @@ void draw()
 void mouseClicked()
 {
   fill(255);
-  rect(mouseX, mouseY, 100, 100);
+  rect(mouseX, mouseY, tamRect, tamRect);
 }
 
 void keyPressed()

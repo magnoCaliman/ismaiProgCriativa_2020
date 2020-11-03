@@ -1,3 +1,5 @@
+int tam = 40;
+
 void setup()
 {
   size(400, 400);
@@ -12,5 +14,5 @@ void draw()
 
 void mouseClicked()
 {
-  ellipse(mouseX, mouseY, 40, 40);
+  ellipse(mouseX, mouseY, tam, tam);
 }
