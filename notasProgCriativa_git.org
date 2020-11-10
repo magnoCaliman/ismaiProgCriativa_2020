@@ -219,7 +219,7 @@ Bloco de notas colaborativo: http://collabedit.com/cmnvk
 - "Resposta":
   - "Tem umas /funções/ tipo ~mouseDragged()~ e ~keyPressed()~ (além de outras que não lembro o nome...) que fazem isso."
 
-- Desafio:
+- Desafio!
   - Investigar a documentação e descobrir:
     1. Quais funções resolvem nosso problema
     2. Ler suas documentações (em https://processing.org/reference/) e decifrar como suas implementações funcionam
@@ -282,7 +282,7 @@ Bloco de notas colaborativo: http://collabedit.com/cmnvk
   6. ~elseIfProbabilidade_06.pde~
   7. ~ifCirculo_07.pde~
 
-- Desafios:
+- Desafios!
   - bolaQuadrada
   - elseIfQuadrante
   - fadeBG
