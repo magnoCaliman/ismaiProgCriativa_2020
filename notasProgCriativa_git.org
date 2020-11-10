@@ -291,3 +291,8 @@ Bloco de notas colaborativo: http://collabedit.com/cmnvk
 - Aula em horário regular (11:15 às 12:15) + compensação da aula 01.2 - 23/09/2020 (12:15 às 14:15)
 
 - Continuação da discussão da aula 07.2
+
+- Exemplos de data visualization:
+  - https://media.giphy.com/media/LT6MTwW0MY5sl71X85/giphy.gif
+  - https://www.reddit.com/r/dataisbeautiful/comments/fxoxti/coronavirus_deaths_vs_other_epidemics_from_day_of/
+  - http://dillonbaker.com/#/spectrum/
