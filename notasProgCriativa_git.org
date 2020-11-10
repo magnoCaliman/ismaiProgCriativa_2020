@@ -287,7 +287,7 @@ Bloco de notas colaborativo: http://collabedit.com/cmnvk
   - elseIfQuadrante
   - fadeBG
   - igualdade
-* AULA 08.1 - 09/11/2020
+* AULA 08.1 - 10/11/2020
 - Aula em horário regular (11:15 às 12:15) + compensação da aula 01.2 - 23/09/2020 (12:15 às 14:15)
 
 - Continuação da discussão da aula 07.2
