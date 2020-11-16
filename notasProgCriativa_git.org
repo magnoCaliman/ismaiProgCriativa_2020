@@ -296,3 +296,24 @@ Bloco de notas colaborativo: http://collabedit.com/cmnvk
   - https://media.giphy.com/media/LT6MTwW0MY5sl71X85/giphy.gif
   - https://www.reddit.com/r/dataisbeautiful/comments/fxoxti/coronavirus_deaths_vs_other_epidemics_from_day_of/
   - http://dillonbaker.com/#/spectrum/
+* AULA 08.2 - 11/11/2020
+- Continuação da discussão da aula 07.2
+* AULA 09.1 - 17/11/2020
+
+- Conceitos:
+  - *Palavras reservadas* ("/keyword/")
+  - *Variável do sistema* ("/system variable/") 
+
+- Vocabulário:
+  - ~true~
+  - ~false~
+  - ~LEFT~
+  - ~RIGHT~
+  - ~mousePressed~
+  - ~mouseButton~
+
+- Exemplo:
+  - ~ifClick.pde~
+
+- Desafio
+  - clicaRectEllipse
