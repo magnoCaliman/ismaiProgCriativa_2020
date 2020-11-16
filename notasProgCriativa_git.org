@@ -231,7 +231,7 @@ Bloco de notas colaborativo: http://collabedit.com/cmnvk
 
 - Conceitos:
   - *Estruturas de controle*
-    - Estruturas no nosso programa que permitem controlar a /ordem de execução/ do nosso programa.
+    - Estruturas no nosso programa que permitem controlar a /ordem de execução/ das nossas instruções.
     - Mudamos a regra que diz que o programa deve ser lido da primeira até a última linha, do início ao fim do programa, repetindo o ~void draw()~ uma vez por frame.
 
 - Especificidades do Processing:
