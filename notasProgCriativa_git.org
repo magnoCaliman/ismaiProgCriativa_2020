@@ -317,3 +317,40 @@ Bloco de notas colaborativo: http://collabedit.com/cmnvk
 
 - Desafio
   - clicaRectEllipse
+* AULA 09.2 - 19/11/2020
+- Random walk: https://en.wikipedia.org/wiki/Random_walk
+  - "An elementary example of a random walk is the random walk on the integer number line, Z {\displaystyle \mathbb {Z} } \mathbb {Z}, which starts at 0 and at each step moves +1 or −1 with equal probability"
+
+* AULA 10.1 - 24/11/2020
+- Ponto onde paramos na aula 09.2:
+#+BEGIN_SRC java
+float x=0;
+float posx=0;
+
+void setup()
+{
+  size(400, 400);
+  background(255);
+  frameRate(3);
+}
+
+void draw()
+{
+  background(255);
+  
+  x = random (1, 10);
+
+  if ( x > 5)
+  {
+  
+  } 
+  else if ( x < 5 );
+  {
+    x = x - 1;
+  }
+  
+  posx = posx + x;
+
+  ellipse (posx, 0, 10, 10);
+}
+#+END_SRC

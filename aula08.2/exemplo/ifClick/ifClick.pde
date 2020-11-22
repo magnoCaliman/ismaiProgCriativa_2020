@@ -1,4 +1,4 @@
-float tamanho;
+int tamanho;
 
 void setup()
 {
