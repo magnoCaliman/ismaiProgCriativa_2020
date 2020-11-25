@@ -354,3 +354,87 @@ void draw()
   ellipse (posx, 0, 10, 10);
 }
 #+END_SRC
+* AULA 10.2 - 25/11/2020
+** Random walk em uma dimensão
+#+BEGIN_SRC java
+float sorteio = 0;
+float posX;
+
+void setup()
+{
+  size(400, 400);
+  background(255);
+  //frameRate(3);
+  
+  posX = width/2;
+}
+
+void draw()
+{
+  background(255);
+  
+  sorteio = random(10);
+
+  if(sorteio < 5) //cara
+  {
+    posX = posX + 1; //anda para direita
+  } 
+  else if(sorteio > 5) //coroa
+  { 
+    posX = posX - 1; //anda para esquerda
+  }
+
+  ellipse(posX, height/2, 10, 10);
+}
+#+END_SRC
+
+** Random walk em duas dimensões
+#+BEGIN_SRC java
+float sorteio = 0;
+int step = 1;
+int tamEllipse = 10;
+float posX;
+float posY;
+
+void setup()
+{
+  size(400, 400);
+  background(255);
+  //frameRate(1);
+  
+  posX = width/2;
+  posY = width/2;
+}
+
+void draw()
+{
+  //background(255);
+  
+  sorteio = random(4);
+  println(sorteio);
+
+  if (sorteio < 1)
+  {
+    posX = posX + step; //anda para direita
+  } 
+  else if ( sorteio > 1 && sorteio < 2) 
+  {
+    posX = posX - step; //anda para esquerda
+  }
+
+  if (sorteio > 2 && sorteio < 3)
+  {
+    posY = posY + step; //anda para baixo
+  } 
+  else if (sorteio > 3 && sorteio < 4) 
+  {
+    posY = posY - step; //anda para cima
+  }
+  
+  ellipse(posX, posY, tamEllipse, tamEllipse);
+}
+#+END_SRC
+
+* AULA 11.1 - 30/11/2020
+- Return type função customizada
+- Argumentos de inicialização
