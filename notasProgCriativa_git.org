@@ -435,6 +435,6 @@ void draw()
 }
 #+END_SRC
 
-* AULA 11.1 - 30/11/2020
-- Return type função customizada
-- Argumentos de inicialização
+# * AULA 11.1 - 30/11/2020
+# - Return type função customizada
+# - Argumentos de inicialização
