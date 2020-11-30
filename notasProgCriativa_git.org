@@ -439,5 +439,5 @@ void draw()
 # - Return type função customizada
 # - Argumentos de inicialização
 - Desafio
-  - Criar *dois programas* de livre escolha que fazem uso do algoritmo de random walk. No nosso exemplo em aula, utilizamos como método para determinar a posição de um círculo em um plano 2D. Pense que outros elementos gráficos e seus parâmetros podem ser explorados criativamente.
+  - Criar *dois programas* de livre escolha que fazem uso do algoritmo de random walk. No nosso exemplo em aula, utilizamos como método para determinar a posição de um círculo em um plano 2D. Pense que outros elementos gráficos e seus parâmetros podem ser explorados criativamente. Trate o  código como /elemento plástico/: experimente, especule, tente coisas diferentes e veja o que idéias o material lhe sugere!
   - Lembre-se, o que implementamos em aula é apenas a /princípio de operação/ do algoritmo, ou seja, uma demonstração de como ele funciona. Isso significa que você provavelmente terá de fazer grandes adaptações (ou talvez reescrever quase que por completo) quando for utilizar nos seus exemplos pessoais. 
