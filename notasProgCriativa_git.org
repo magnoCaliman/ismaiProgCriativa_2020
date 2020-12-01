@@ -441,3 +441,38 @@ void draw()
 - Desafio
   - Criar *dois programas* de livre escolha que fazem uso do algoritmo de random walk. No nosso exemplo em aula, utilizamos como método para determinar a posição de um círculo em um plano 2D. Pense que outros elementos gráficos e seus parâmetros podem ser explorados criativamente. Trate o  código como /elemento plástico/: experimente, especule, tente coisas diferentes e veja o que ideias o material lhe sugere!
   - Lembre-se, o que implementamos em aula é apenas o /princípio de operação/ do algoritmo, ou seja, uma demonstração de como ele funciona. Isso significa que você provavelmente terá de fazer grandes adaptações (ou talvez reescrever quase que por completo) quando for utilizar nos seus exemplos pessoais. 
+* AULA 11.1 - 02/12/2020
+- Grupo A
+  - Paulo Miguel da Silva Vilar
+  - Vitória dos Santos Pereira
+
+- Grupo B
+  - Daniel Jerónimo Martins Pinho
+  - Bárbara Valente Gomes Taveira
+  - Leonor Martins Raimundo
+  - Rafael da Rocha Moreira
+  - Tiago Varejão Duarte
+
+- Grupo C1
+  - Vera Lúcia Graça Maio 
+  - Alex Filipe Martins de Castro
+  - Beatriz Moreira Rocha do Amparo
+  - Catarina Sofia Mota Ferreira
+
+- Grupo C2
+  - João Carlos Gonçalves Rodrigues
+  - José Pedro de Fontes Ferreira
+  - Mariana Moreira de Sousa Teixeira
+  - Raquel Martins Prata Costa
+
+- Grupo D1
+  - Alexandra Micaela Pereira Mendes
+  - Diogo Miguel Costa Azevedo
+  - Alexandre Baldo Oliveira
+
+- Grupo D2
+  - Miguel Ivo Ramos Afonso
+  - Alexandre dos Santos Barrocas
+  - Ana Isabel Mesquita Matos
+  - Dinis Mariano Guedes dos Anjos
+
