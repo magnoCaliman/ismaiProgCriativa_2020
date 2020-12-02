@@ -476,6 +476,7 @@ void draw()
 - Grupo D2
   - Miguel Ivo Ramos Afonso
   - Alexandre dos Santos Barrocas
+  - Alexandra Manuela Lopes Custódio
   - Ana Isabel Mesquita Matos
   - Dinis Mariano Guedes dos Anjos
 
