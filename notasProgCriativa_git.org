@@ -472,6 +472,7 @@ void draw()
   - Diogo Miguel Costa Azevedo
   - Alexandre Baldo Oliveira
   - Bernardo Amorim Lage de Carvalho
+  - Rodrigo Magalhães Cardoso
 
 - Grupo D2
   - Miguel Ivo Ramos Afonso
