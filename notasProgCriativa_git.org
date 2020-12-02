@@ -465,11 +465,13 @@ void draw()
   - José Pedro de Fontes Ferreira
   - Mariana Moreira de Sousa Teixeira
   - Raquel Martins Prata Costa
+  - Beatriz Osório Martins
 
 - Grupo D1
   - Alexandra Micaela Pereira Mendes
   - Diogo Miguel Costa Azevedo
   - Alexandre Baldo Oliveira
+  - Bernardo Amorim Lage de Carvalho
 
 - Grupo D2
   - Miguel Ivo Ramos Afonso
