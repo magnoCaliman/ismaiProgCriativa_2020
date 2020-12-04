@@ -318,7 +318,7 @@
 
 - Desafio
   - clicaRectEllipse
-* AULA 09.2 - 19/11/2020
+* AULA 09.2 - 18/11/2020
 - Random walk: https://en.wikipedia.org/wiki/Random_walk
   - "An elementary example of a random walk is the random walk on the integer number line, Z, which starts at 0 and at each step moves +1 or −1 with equal probability"
 
