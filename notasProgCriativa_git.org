@@ -481,3 +481,31 @@ void draw()
   - Ana Isabel Mesquita Matos
   - Dinis Mariano Guedes dos Anjos
 
+* AULA 12.1 - 09/12/2020
+** AVALIAÇÃO - MOMENTO 1 (50%) -> DESAFIOS
+- Descrição:
+  - Entrega dos códigos de implementaçãos de exercícios práticos propostos nas aulas:
+    - Aula 02.2 -> 7 desafios
+    - Aula 03.2 -> 5 desafios
+    - Aula 05.1 -> 6 desafios
+    - Aula 05.2 -> 5 desafios
+    - Aula 06.2 -> 4 desafios
+    - Aula 07.2 -> 4 desafios
+    - Aula 09.1 -> 1 desafio
+    - Aula 10.2 -> 2 desafios
+      - *TOTAL*: --> 34 exercícios
+- Formato de entrega:
+  - Arquivo zip contendo os códigos de Processing, *organizados em ficheiros de acordo com o número das aulas, e o nome dos desafios*
+  - Deve ser submetido no portal da ISMAI, na opção "Entrega de trabalhos"
+- Data de entrega:
+  - 18/12/2020
+** AVALIAÇÃO - MOMENTO 2 (50%) -> PROJETO INDIVIDUAL
+- Descrição:
+  - Apresentação de protótipo de objeto artístico-exploratório em media de livre escolha (instalação, livro, video, web art, etc.) que faça uso de sistema computacional realizado em Processing.
+- Formato de entrega:
+  - PDF contendo texto investigativo, maquete visual e texto técnico
+  - Código de Processing de protótipo funcional
+  - Deve ser submetido no portal da ISMAI, na opção "Entrega de trabalhos"
+- Datas de entrega:
+  - 04/01/2021 - Apresentação verbal de *5 minutos* com idéia principal do projeto.
+  - Última semana de aulas (entre 18 e 21 de Janeiro-2021) - Entrega final e talvez apresentação para turma (à confirmar).
