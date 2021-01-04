@@ -507,5 +507,47 @@ void draw()
   - Código de Processing de protótipo funcional
   - Deve ser submetido no portal da ISMAI, na opção "Entrega de trabalhos"
 - Datas de entrega:
-  - 05/01/2021 - Apresentação verbal de *5 minutos* com idéia principal do projeto.
-  - Última semana de aulas (entre 18 e 21 de Janeiro-2021) - Entrega final e talvez apresentação para turma (à confirmar).
+  - 05/01/2021 - Apresentação verbal de *5 minutos* com idéia principal do projeto
+  - Última semana de aulas (entre 18 e 21 de Janeiro-2021) - Entrega final e talvez apresentação para turma (à confirmar)
+* AULA 13.1 - 14/12/2020
+- Trabalhos práticos em grupo
+* AULA 13.2 - 16/12/2020
+- Trabalhos práticos em grupo
+* ORIENTAÇÕES PROJETOS FINAIS
+
+** Alex Castro          
+** Alexandre Barrocas          
+** Alexandra Custódio       
+** Alexandra Mendes       
+** Alexandre Oliveira               
+** Ana Matos              
+** Bárbara Taveira          
+** Beatriz Amparo        
+** Beatriz Martins                 
+** Bernardo Carvalho       
+** Catarina Ferreira           
+** Daniel Pinho          
+** Dinis Anjos         
+** Diogo Azevedo             
+** Inês Braga             
+** José Ferreira          
+** João Rodrigues        
+** Leonor Raimundo                
+** Mariana Teixeira      
+** Miguel Afonso            
+** Miguel Vilar
+** Rafael Moreira                
+** Raquel Costa             
+** Rodrigo Cardoso              
+** Rui Teixeira      
+** Tiago Duarte                   
+** Vera Maio                  
+** Vitória Pereira             
+---
+** André Fonseca Ventura                    
+** Carolina Michaélis Domingues Marques     
+** Diogo Manuel Vasconcelos Pinto Oliveira  
+** Isabella Palma Passos Bertini            
+** Rafael da Graça Fortes                   
+** Rogério Cannella                         
+** Yasmin Soares de Brito de Sousa Lobo     
