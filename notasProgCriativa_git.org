@@ -515,14 +515,53 @@ void draw()
 - Trabalhos práticos em grupo
 * ORIENTAÇÕES PROJETOS FINAIS
 
-** Alex Castro          
-** Alexandre Barrocas          
+** Alex Castro
+*** Aula 14.1 - 04/01/2021
+- conta de instagram. pontilhismo de obras famosas.
+- sugestão: bot autônomo. agente não humano que faz o remix.
+** Alexandre Barrocas
+*** Aula 14.1 - 04/01/2021
+- cartaz. sem tema ainda.
+- explorar exemplos de aula que não sejam interativos
 ** Alexandra Custódio       
-** Alexandra Mendes       
+** Alexandra Mendes
+*** Aula 14.1 - 04/01/2021
+- generative music / interacao som/imagem
+- referências:
+  - https://www.youtube.com/watch?v=qolz0gmWkqg&list=PLbLdd1fdNg5w0x_XldV9O5X4SL5hkEQ9O&index=3
+  - http://generative-music-patterns.schloss-post.com/
+  - https://thedotisblack.com/
+  - https://processing.org/reference/libraries/sound/index.html (começar com amplitude)
+  - http://code.compartmental.net/tools/minim/
+  - data / image sonification
 ** Alexandre Oliveira               
-** Ana Matos              
-** Bárbara Taveira          
-** Beatriz Amparo        
+** Ana Matos
+*** Aula 14.1 - 04/01/2021
+- pixel art de obras de arte famosas
+- referências:
+  - deep dream: https://duckduckgo.com/?q=deep+dream&iax=images&ia=images&iai=https%3A%2F%2Fi.ytimg.com%2Fvi%2FIUOxzAoXy0o%2Fmaxresdefault.jpg
+  - https://processing.org/reference/PImage.html
+  - https://www.youtube.com/watch?v=-f0WEitGmiw&list=PLRqwX-V7Uu6YB9x6f23CBftiyx0u_5sO9
+  - https://www.youtube.com/watch?v=70-4l7P6UB8
+  - https://processing.org/reference/for.html
+
+** Bárbara Taveira
+*** Aula 14.1 - 04/01/2021
+- teclado interativo estilo guitar hero
+  - https://www.youtube.com/watch?v=egZXmG4eyiQ&ab_channel=Rousseau
+  - http://www.smallbutdigital.com/projects/themidibus/
+  - termos importantes do protocolo midi:
+    - midi number
+    - velocity
+    - note on/off
+** Beatriz Amparo
+*** Aula 14.1 - 04/01/2021
+- instalacao interativa (reativa?). estagios da vida / estacoes do ano / salas em ambiente físico.
+- exploracão da poéticas das cores das estacões
+- referências:
+  - https://processing.org/tutorials/color/
+  - color spaces (HSB vs. RGB vs. CMYK) - https://en.wikipedia.org/wiki/Color_space
+  - https://www.imdb.com/title/tt0421715/
 ** Beatriz Martins                 
 ** Bernardo Carvalho       
 ** Catarina Ferreira           
