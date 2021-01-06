@@ -516,16 +516,16 @@ void draw()
 * ORIENTAÇÕES PROJETOS FINAIS
 
 ** Alex Castro
-*** Aula 14.1 - 04/01/2021
+*** Aula 14.1 - 05/01/2021
 - conta de instagram. pontilhismo de obras famosas.
 - sugestão: bot autônomo. agente não humano que faz o remix.
 ** Alexandre Barrocas
-*** Aula 14.1 - 04/01/2021
+*** Aula 14.1 - 05/01/2021
 - cartaz. sem tema ainda.
 - explorar exemplos de aula que não sejam interativos
-** Alexandra Custódio       
+** Alexandra Custódio
 ** Alexandra Mendes
-*** Aula 14.1 - 04/01/2021
+*** Aula 14.1 - 05/01/2021
 - generative music / interacao som/imagem
 - referências:
   - https://www.youtube.com/watch?v=qolz0gmWkqg&list=PLbLdd1fdNg5w0x_XldV9O5X4SL5hkEQ9O&index=3
@@ -536,7 +536,7 @@ void draw()
   - data / image sonification
 ** Alexandre Oliveira               
 ** Ana Matos
-*** Aula 14.1 - 04/01/2021
+*** Aula 14.1 - 05/01/2021
 - pixel art de obras de arte famosas
 - referências:
   - deep dream: https://duckduckgo.com/?q=deep+dream&iax=images&ia=images&iai=https%3A%2F%2Fi.ytimg.com%2Fvi%2FIUOxzAoXy0o%2Fmaxresdefault.jpg
@@ -546,7 +546,7 @@ void draw()
   - https://processing.org/reference/for.html
 
 ** Bárbara Taveira
-*** Aula 14.1 - 04/01/2021
+*** Aula 14.1 - 05/01/2021
 - teclado interativo estilo guitar hero
   - https://www.youtube.com/watch?v=egZXmG4eyiQ&ab_channel=Rousseau
   - http://www.smallbutdigital.com/projects/themidibus/
@@ -554,34 +554,115 @@ void draw()
     - midi number
     - velocity
     - note on/off
+
 ** Beatriz Amparo
-*** Aula 14.1 - 04/01/2021
+*** Aula 14.1 - 05/01/2021
 - instalacao interativa (reativa?). estagios da vida / estacoes do ano / salas em ambiente físico.
 - exploracão da poéticas das cores das estacões
 - referências:
   - https://processing.org/tutorials/color/
   - color spaces (HSB vs. RGB vs. CMYK) - https://en.wikipedia.org/wiki/Color_space
   - https://www.imdb.com/title/tt0421715/
-** Beatriz Martins                 
-** Bernardo Carvalho       
-** Catarina Ferreira           
-** Daniel Pinho          
-** Dinis Anjos         
-** Diogo Azevedo             
-** Inês Braga             
-** José Ferreira          
+
+** Beatriz Martins
+*** Aula 14.2 - 06/01/2021
+- mashup pop art
+- referencias:
+  - style transfer (machine learning)
+  - https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmiro.medium.com%2Fmax%2F767%2F1*B5zSHvNBUP6gaoOtaIy4wg.jpeg&f=1&nofb=1
+  - https://duckduckgo.com/?q=style+transfer&page=1&sexp=%7B%22cdrexp%22%3A%22b%22%2C%22artexp%22%3A%22c%22%2C%22prodexp%22%3A%22b%22%2C%22prdsdexp%22%3A%22c%22%2C%22biaexp%22%3A%22b%22%2C%22msvrtexp%22%3A%22b%22%2C%22bltexp%22%3A%22b%22%2C%22djsdexp%22%3A%22b%22%7D&iax=images&ia=images&iai=https%3A%2F%2Fmiro.medium.com%2Fmax%2F767%2F1*B5zSHvNBUP6gaoOtaIy4wg.jpeg
+  - rasterização: https://www.youtube.com/watch?v=XO8u0Y75FRk
+
+** Bernardo Carvalho
+*** Aula 14.2 - 06/01/2021
+- visualização de som / midi multichannel
+- mesmas referências da bárbara
+- 3d
+- qual a estética?
+- referências:
+  - https://www.youtube.com/watch?v=HNPDAfJTN10
+  - https://www.youtube.com/watch?v=MiSr8iNwWsw
+
+** Catarina Ferreira
+*** Aula 14.2 - 06/01/2021
+- espaço físico "psicodélico", que perturba percepcão da realidade do espectador
+- ilusão de ótica: https://en.wikipedia.org/wiki/Optical_illusion
+- referências
+  - https://mymodernmet.com/wp/wp-content/uploads/2017/10/casa-ceramica-optical-illusion-tiles-1-1.jpg
+
+** Daniel Pinho
+*** Aula 14.2 - 06/01/2021
+- referências:
+  - motion tracking: https://duckduckgo.com/?q=processing+motion+tracking&ia=web&iai=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DQLHMtE5XsMs
+  - computer vision: https://www.youtube.com/watch?v=h8tk0hmWB44&list=PLRqwX-V7Uu6aG2RJHErXKSWFDXU4qo_ro
+
+** Dinis Anjos
+** Diogo Azevedo
+** Inês Braga
+** José Ferreira
+*** Aula 14.2 - 06/01/2021
+- reconstrução de jogos atari/pong
+- explorar outros dispositivos de entrada? (mic/webcam) e consequentemente outras formas de interacão
+- bibliotecas de som (minim). mesmas referências do trabalho da alexandra
 ** João Rodrigues        
-** Leonor Raimundo                
-** Mariana Teixeira      
-** Miguel Afonso            
-** Miguel Vilar
-** Rafael Moreira                
-** Raquel Costa             
+** Leonor Raimundo
+*** Aula 14.2 - 06/01/2021
+- série de posteres interativos (online ou físico)
+- tim rodenbröker / rasterizacão: https://www.youtube.com/c/timrodenbr%C3%B6kercreativecoding/videos
+- bauhaus: https://www.google.com/search?tbm=isch&q=bauhaus&tbs=imgo:1
+- qual o tema?
+** Mariana Teixeira
+** Miguel Afonso
+*** Aula 14.2 - 06/01/2021
+- paralax: https://www.youtube.com/watch?v=YdHTlUGN1zw
+- https://www.youtube.com/results?search_query=coding+purple+rain
+- https://www.youtube.com/results?search_query=coding+train+stars
+- https://www.youtube.com/results?search_query=conways+game+of+life
+- The Nature of Code: https://natureofcode.com/book/
+** Paulo Vilar
+*** Aula 14.2 - 06/01/2021
+- random walk + bot de instagram. 
+- mesma pergunta do alex. pq postar no instagram? como pensar um agente não-humano que faz a arte?
+  - https://www.studiointernational.com/index.php/chance-and-control-art-in-the-age-of-computers-review-victoria-albert-museum
+** Rafael Moreira
+*** Aula 14.2 - 06/01/2021
+- visualizador de som em tempo real
+- live cinema: [[https://www.dropbox.com/s/zby9e71nro97srr/Youngblood%2C%20G%20-%20Expanded%20Cinema.pdf?dl=0][Youngblood, G - Expanded Cinema (capt.4)]]
+- "visualists" em live coding
+  - https://www.youtube.com/watch?v=cw7tPDrFIQg
+  - https://www.nadyaprimak.com/blog/creativity/hydra-tutorial-live-coding-visuals/
+** Raquel Costa
+*** Aula 14.2 - 06/01/2021
+- mural de photos projetadas, fotos que deixam a marca dos visitantes
+- timeline, passagem do tempo
+- referências
+  - People Staring at Computers: https://www.wired.com/2012/07/people-staring-at-computers/
+  - process art e passagem do tempo
+    - https://en.wikipedia.org/wiki/Process_art (trabalho do William Basinki)
+    - https://mymodernmet.com/japanese-flower-art-azuma-makoto/
+    - https://mymodernmet.com/wp/wp-content/uploads/2017/09/azuma-makoto-flower-art-7.jpg
+    - https://www.andrewmaxedon.com/generational-decay
 ** Rodrigo Cardoso              
 ** Rui Teixeira      
-** Tiago Duarte                   
-** Vera Maio                  
-** Vitória Pereira             
+** Tiago Duarte
+*** Aula 14.2 - 06/01/2021
+- frogger
+  - object orientation: https://www.youtube.com/watch?v=YcbcfkLzgvs&list=PLRqwX-V7Uu6bb7z2IJaTlzwzIg_5yvL4i
+  - mesma referência do José, explorar outros dispositivos de entrada
+** Vera Maio
+*** Aula 14.2 - 06/01/2021
+- sala com luzes. exploracão de mudancas graduais, lentas de cor. sincronia com áudio, para pessoas com ansiedade.
+- referências:
+  - mesmas referências de cor da Beatriz (explorar HSB em vez de RGB)
+  - mundanca do sistema de coordenadas cartesianas (plano XY), para coordenadas polares (curvas e ângulos, para explorar formas circulares: https://www.youtube.com/results?search_query=processing+cartedian+to+polar
+** Vitória Pereira
+*** Aula 14.2 - 06/01/2021 
+- plataforma de criacão controlada pelo usuário
+- movimentacão livre de objetos gráficos, imagens/formas pré-definidas (não desenho)
+- referências:
+  - zine: https://www.google.com/search?tbm=isch&q=zine&tbs=imgo:1#imgrc=OO8U-sHXLD7A_M
+  - [[https://www.dropbox.com/s/na5fxbexkvkr0uo/Ludovico%2C%20A%20-%20Post-Digital%20Print%20-%20The%20Mutation%20of%20Publishing%20Since%201894.pdf?dl=0][Ludovico, A - Post-Digital Print (capítulos 2.6 e 2.7)]]
+
 ---
 ** André Fonseca Ventura                    
 ** Carolina Michaélis Domingues Marques     
