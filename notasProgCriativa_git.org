@@ -643,7 +643,7 @@ void draw()
     - https://mymodernmet.com/wp/wp-content/uploads/2017/09/azuma-makoto-flower-art-7.jpg
     - https://www.andrewmaxedon.com/generational-decay
 ** Rodrigo Cardoso              
-** Rui Teixeira      
+** Rui Teixeira
 ** Tiago Duarte
 *** Aula 14.2 - 06/01/2021
 - frogger
