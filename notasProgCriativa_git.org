@@ -630,6 +630,7 @@ void draw()
 - live cinema
   - [[https://www.dropbox.com/s/zby9e71nro97srr/Youngblood%2C%20G%20-%20Expanded%20Cinema.pdf?dl=0][Youngblood, G - Expanded Cinema (capt.4)]]
   - [[https://www.dropbox.com/s/di3sdgc1ql03vjc/Curtis%2C%20D%20-%20Expanded%20Cinema.pdf?dl=0][Curtis, D - Expanded Cinema (p.252)]]
+  - Guy Sherwin - Man With Mirror - https://www.youtube.com/watch?v=DX1-xuCNIeg
 - "visualists" em live coding
   - https://www.youtube.com/watch?v=cw7tPDrFIQg
   - https://www.nadyaprimak.com/blog/creativity/hydra-tutorial-live-coding-visuals/
