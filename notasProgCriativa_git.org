@@ -508,7 +508,7 @@ void draw()
   - Deve ser submetido no portal da ISMAI, na opção "Entrega de trabalhos"
 - Datas de entrega:
   - 05/01/2021 - Apresentação verbal de *5 minutos* com idéia principal do projeto
-  - 22/01/2021 - Sexta-feira, última semana de aulas
+  - 22/01/2021 - Upload no portal ISMAI
   - +Última semana de aulas (entre 18 e 21 de Janeiro-2021) - Entrega final e talvez apresentação para turma (à confirmar)+
 * AULA 13.1 - 14/12/2020
 - Trabalhos práticos em grupo
@@ -520,13 +520,21 @@ void draw()
 *** Aula 14.1 - 05/01/2021
 - conta de instagram. pontilhismo de obras famosas.
 - sugestão: bot autônomo. agente não humano que faz o remix.
+
 ** Alexandre Barrocas
 *** Aula 14.1 - 05/01/2021
 - cartaz. sem tema ainda.
 - explorar exemplos de aula que não sejam interativos
+
+*** Aula 15.2 - 13/01/2021
+- 
+
 ** Alexandra Custódio
-*** Aala 14.2 - 06/01/2021
+*** Aula 14.2 - 06/01/2021
 - recriar tetris / lógica de jogos "3 of a kind" (candycrush, etc)
+*** Aula 16.2 - 20/01/2021
+- https://www.youtube.com/c/TheCodingTrain/search?query=computer%20vision
+- https://www.joe.co.uk/gaming/tetris-block-names-221127
 ** Alexandra Mendes
 *** Aula 14.1 - 05/01/2021
 - generative music / interacao som/imagem
@@ -537,7 +545,8 @@ void draw()
   - https://processing.org/reference/libraries/sound/index.html (começar com amplitude)
   - http://code.compartmental.net/tools/minim/
   - data / image sonification
-** Alexandre Oliveira               
+
+** Alexandre Oliveira
 ** Ana Matos
 *** Aula 14.1 - 05/01/2021
 - pixel art de obras de arte famosas
@@ -601,20 +610,39 @@ void draw()
 
 ** Dinis Anjos
 ** Diogo Azevedo
+*** Aula 16.2 - 20/01/2021
+- recriar jogo de scratch - https://scratch.mit.edu/projects/365329695/
+  - https://www.youtube.com/watch?v=7BoJBYh16CQ
+  - https://www.youtube.com/watch?v=DPFJROWdkQ8&t=3s
+  - https://www.youtube.com/watch?v=nBKwCCtWlUg
 ** Inês Braga
 ** José Ferreira
 *** Aula 14.2 - 06/01/2021
 - reconstrução de jogos atari/pong
 - explorar outros dispositivos de entrada? (mic/webcam) e consequentemente outras formas de interacão
 - bibliotecas de som (minim). mesmas referências do trabalho da alexandra
-** João Rodrigues        
+
+** João Rodrigues
 ** Leonor Raimundo
 *** Aula 14.2 - 06/01/2021
 - série de posteres interativos (online ou físico)
 - tim rodenbröker / rasterizacão: https://www.youtube.com/c/timrodenbr%C3%B6kercreativecoding/videos
 - bauhaus: https://www.google.com/search?tbm=isch&q=bauhaus&tbs=imgo:1
 - qual o tema?
+*** Aula 15.2 - 13/01/2021
+- estados de espírito
+  - spring - https://www.youtube.com/watch?v=cluKQOY92Dw&list=PLRqwX-V7Uu6aFlwukCmDf0-1-uSR7mklK&index=23
+  - site
+
 ** Mariana Teixeira
+*** Aula 15.2 - 13/01/2021
+- flappy bird "ao meu estilo"
+  - mudar estética
+  - nature of code
+    - https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aFlwukCmDf0-1-uSR7mklK
+    - https://natureofcode.com/book/
+    - https://www.youtube.com/watch?v=cXgA1d_E-jY
+
 ** Miguel Afonso
 *** Aula 14.2 - 06/01/2021
 - paralax: https://www.youtube.com/watch?v=YdHTlUGN1zw
@@ -622,11 +650,13 @@ void draw()
 - https://www.youtube.com/results?search_query=coding+train+stars
 - https://www.youtube.com/results?search_query=conways+game+of+life
 - The Nature of Code: https://natureofcode.com/book/
+
 ** Paulo Vilar
 *** Aula 14.2 - 06/01/2021
 - random walk + bot de instagram. 
 - mesma pergunta do alex. pq postar no instagram? como pensar um agente não-humano que faz a arte?
   - https://www.studiointernational.com/index.php/chance-and-control-art-in-the-age-of-computers-review-victoria-albert-museum
+
 ** Rafael Moreira
 *** Aula 14.2 - 06/01/2021
 - visualizador de som em tempo real
@@ -637,6 +667,7 @@ void draw()
 - "visualists" em live coding
   - https://www.youtube.com/watch?v=cw7tPDrFIQg
   - https://www.nadyaprimak.com/blog/creativity/hydra-tutorial-live-coding-visuals/
+
 ** Raquel Costa
 *** Aula 14.2 - 06/01/2021
 - mural de photos projetadas, fotos que deixam a marca dos visitantes
@@ -648,19 +679,23 @@ void draw()
     - https://mymodernmet.com/japanese-flower-art-azuma-makoto/
     - https://mymodernmet.com/wp/wp-content/uploads/2017/09/azuma-makoto-flower-art-7.jpg
     - https://www.andrewmaxedon.com/generational-decay
-** Rodrigo Cardoso              
+
+** Rodrigo Cardoso
 ** Rui Teixeira
+
 ** Tiago Duarte
 *** Aula 14.2 - 06/01/2021
 - frogger
   - object orientation: https://www.youtube.com/watch?v=YcbcfkLzgvs&list=PLRqwX-V7Uu6bb7z2IJaTlzwzIg_5yvL4i
   - mesma referência do José, explorar outros dispositivos de entrada
+
 ** Vera Maio
 *** Aula 14.2 - 06/01/2021
 - sala com luzes. exploracão de mudancas graduais, lentas de cor. sincronia com áudio, para pessoas com ansiedade.
 - referências:
   - mesmas referências de cor da Beatriz (explorar HSB em vez de RGB)
   - mundanca do sistema de coordenadas cartesianas (plano XY), para coordenadas polares (curvas e ângulos, para explorar formas circulares: https://www.youtube.com/results?search_query=processing+cartedian+to+polar
+
 ** Vitória Pereira
 *** Aula 14.2 - 06/01/2021 
 - plataforma de criacão controlada pelo usuário
@@ -669,11 +704,12 @@ void draw()
   - zine: https://www.google.com/search?tbm=isch&q=zine&tbs=imgo:1#imgrc=OO8U-sHXLD7A_M
   - [[https://www.dropbox.com/s/na5fxbexkvkr0uo/Ludovico%2C%20A%20-%20Post-Digital%20Print%20-%20The%20Mutation%20of%20Publishing%20Since%201894.pdf?dl=0][Ludovico, A - Post-Digital Print (capítulos 2.6 e 2.7)]]
 
----
-** André Fonseca Ventura                    
-** Carolina Michaélis Domingues Marques     
-** Diogo Manuel Vasconcelos Pinto Oliveira  
-** Isabella Palma Passos Bertini            
-** Rafael da Graça Fortes                   
-** Rogério Cannella                         
-** Yasmin Soares de Brito de Sousa Lobo     
+** ---
+
+*** André Fonseca Ventura                    
+*** Carolina Michaélis Domingues Marques     
+*** Diogo Manuel Vasconcelos Pinto Oliveira  
+*** Isabella Palma Passos Bertini            
+*** Rafael da Graça Fortes                   
+*** Rogério Cannella                         
+*** Yasmin Soares de Brito de Sousa Lobo     
